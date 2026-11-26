@@ -1,0 +1,8 @@
+{
+  "experiments": 4,
+  "validation_size": 800,
+  "metrics_match": true,
+  "split_match": true,
+  "histories_match": true,
+  "checkpoint_inference_checked": true
+}

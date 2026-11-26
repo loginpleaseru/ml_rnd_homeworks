@@ -1,0 +1,17 @@
+seed: 18
+size: 128
+batch_size: 128
+epochs: 40
+lr: 0.001
+weight_decay: 0.01
+n_splits: 3
+sample_size: 5000
+frozen_ratio: 0.7
+mean: [0.485, 0.456, 0.406]
+std: [0.229, 0.224, 0.225]
+classes: [CBB, CBSD, CGM, CMD, Healthy]
+data_csv: data/train.csv
+image_dir: data/cassava_train
+output_dir: runs/baseline
+num_workers: 0
+device: auto

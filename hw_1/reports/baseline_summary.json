@@ -1,0 +1,9 @@
+{
+  "source": "fold_metrics.csv",
+  "n_folds": 3,
+  "sample_size_from_notebook": 5000,
+  "lr_from_notebook": 0.001,
+  "f1_macro_mean": 0.46840630699193864,
+  "f1_macro_std_ddof1": 0.0006971158660881067,
+  "training_rerun": false
+}

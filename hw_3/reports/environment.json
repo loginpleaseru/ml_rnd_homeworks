@@ -1,0 +1,13 @@
+{
+  "python": "3.12.16",
+  "torch": "2.15.0",
+  "torchvision": "0.29.2",
+  "numpy": "2.0.2",
+  "pandas": "3.1.1",
+  "sklearn": "1.9.1",
+  "device": "cpu",
+  "model": "full_h1_h2",
+  "checkpoint_sha256": "4d27865e2cbaca3c7eda1bf7d61134fdacbbac8454aad419e9015a8f91ed0f57",
+  "manifest_sha256": "6f69b347bb00e66b2a7a20f28961994feaea68eec3c6ce1e8449373f38e52ec2",
+  "seed": 18
+}

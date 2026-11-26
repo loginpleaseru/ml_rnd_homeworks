@@ -1,0 +1,12 @@
+torch>=2.2,<3
+torchvision>=0.17,<1
+Pillow>=10,<13
+pandas>=2,<3
+numpy>=1.26,<2.1
+matplotlib>=3.8,<4
+scikit-learn>=1.4,<2
+tqdm>=4.66,<5
+PyYAML>=6,<7
+# Optional notebook viewer:
+nbformat>=5.9,<6
+jupyter>=1,<2

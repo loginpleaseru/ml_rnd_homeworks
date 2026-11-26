@@ -1,0 +1,10 @@
+{
+  "notebook_cells": 20,
+  "executed_code_cells": 9,
+  "execution_errors": 0,
+  "prediction_conditions": 5,
+  "validation_objects_per_condition": 800,
+  "metrics_recomputed": true,
+  "figure_files": 5,
+  "error_examples": 5
+}
